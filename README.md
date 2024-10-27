@@ -2,7 +2,7 @@
 # Welcome To My Page
 
 ## Selamat Datang di Halaman Saya
-![damarazky](https://damarazky.netlify.app/img/logo.png)
+![damarazky]([https://damarazky.netlify.app/img/logo.png](https://i.pinimg.com/736x/67/2b/d6/672bd63ad8f503f664a9746776e35dfb.jpg))
 
 ini akun github ke 2 saya karena akun github pertama saya lupa password hehehe.
 di akun github ini portfolio project project Flutter / Laravel yang saya buat.
